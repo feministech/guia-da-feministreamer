@@ -57,7 +57,7 @@ Por isso é importante entrar em uma comunidade se você quer começar a consumi
 
 - [Feministech](https://feministech.github.io/)
 - [A Caverna do Patocórnio](https://caverna.live/)
-- [Kotlinaautas](https://kotlinautas.dev/)
+- [Kotlinautas](https://kotlinautas.dev/)
 
 ## Interagindo em comunidades
 
@@ -65,7 +65,35 @@ Para interagir em comunidades, no começo pode ser difícil, principalmente se e
 
 # Parte técnica
 
-[A FAZER]
+Para começar a fazer live, além de termos que saber sobre live coding, como falar com o chat, comunidades,etc. Também é importante saber a parte técnica como as plataformas, OBS, Overlays,etc. Essa seção é destinada á mostrar inicialmente esses tópicos.
+
+## Plataformas
+
+Existem diversas plataformas que podem ser utilizadas para você fazer as suas lives, mas as duas que a Feministech recomenda é a [Twitch](https://twitch.tv) e a [Trovo](https://trovo.live), entre as duas, a Twitch é a plataforma mais utilizada (bem mais utilizada), mas a Trovo tem um suporte muito melhor caso você tenha algum problema. E você também pode trocar de plataforma, você pode começar na Twitch e migrar para a Trovo por exemplo.
+
+## OBS e StreamLabsOBS
+
+Você irá precisar também de um programa para transmitir a sua live, levando a imagem e som que você está produzindo no seu computador, e levando á plataforma.
+
+Nesse assunto, temos dois programas bem conhecidos que fazem isso.
+
+### OBS
+
+o OBS (Open Broadcast Software) é o programa mais conhecido para fazer lives, ele tem essa interface abaixo:
+
+![Captura de tela do OBS](assets/captura-obs-01.png)
+
+OBS é um programa com diversas funções e capacidades, podendo ser usado até em lives imensas de grandes streamers.
+
+Além de ser um programa gratuito, também é completamente Open Source, logo qualquer pessoa pode ajudar o programa contribuindo no projeto.
+
+Para instalar o OBS, [baixe o software em seu site oficial](https://obsproject.com/) seguindo o seu sistema operacional (Windows, MacOS ou Linux), e instale o programa como qualquer outro.
+
+### StreamLabsOBS
+
+StreamLabsOBS é uma versão personalizada do OBS criada pela StreamLabs. Essa versão é bem mais simples de ser configurada que o OBS padrão, além de já vir com plugins para botar o chat na tela, alertas, notificações,etc. Logo, é bem mais fácil de começar com ela.
+
+Para baixar, [clique nesse link aqui](https://streamlabs.com/) para entrar no site oficial do Streamlabs e instalar.
 
 # Fazendo sua primeira live
 
