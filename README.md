@@ -1,6 +1,6 @@
 # Guia da Feministreamer
 
-Olá! Você quer se tornar uma streamer?
+Olá! Você quer se tornar streamer?
 
 Nesse guia, vamos te dar dicas e um tutorial básico de como começar a streamar, e compartilhar seu conhecimento e experiências com todes!
 
