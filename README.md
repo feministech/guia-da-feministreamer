@@ -1,5 +1,7 @@
 # Guia da Feministreamer
 
+![Fundo quadriculado, título "Guia da Feministreamer" com fundo rosa, Logo da Feministech ao meio, e no rodapé, texto "Bora começar a fazer live?" em fundo azul](assets/capa.png)
+
 Olá! Você quer se tornar streamer?
 
 Nesse guia, vamos te dar dicas e um tutorial básico de como começar a streamar, e compartilhar seu conhecimento e experiências com todes!
